@@ -13,4 +13,16 @@ export default StyleSheet.create({
     height: 400,
     margin: 15,
   },
+
+  ipaText: {
+    color: "coral",
+  },
+
+  stoutText: {
+    color: "firebrick",
+  },
+
+  boldText: {
+    fontWeight: "bold",
+  },
 });
